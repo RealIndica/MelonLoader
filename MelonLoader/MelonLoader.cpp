@@ -133,7 +133,7 @@ void MelonLoader::Main()
 
 			ReadAppInfo();
 
-			DisableAnalytics::Setup();
+			//DisableAnalytics::Setup(); //Disabled because it causes a crash for some reason
 			HookManager::LoadLibraryW_Hook();
 		}
 	}
