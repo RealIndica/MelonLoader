@@ -1,3 +1,9 @@
+### WHATS DIFFERENT IN THIS FORK
+
+- 32-bit/x86 support for Unity games.
+- Analytics are not patched out in this version due to a crash it causes - working to find a fix.
+- Contact for this fork - Indica#1259 on Discord.
+
 ### GENERAL INFORMATION:
 
 - Normal Console is for Debugging and Displaying the Output of Plugins and Mods.
